@@ -1,0 +1,3 @@
+symbol,description,[]sources,[]sources,count
+string,string,string,string,int
+AUDCAD,澳元兑加元,LMAX,IB,12323
